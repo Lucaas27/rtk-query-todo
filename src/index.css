@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .container {
+    @apply mx-auto px-8;
+  }
+
+  .margin-block-start {
+    margin-block-start: auto;
+  }
+}
