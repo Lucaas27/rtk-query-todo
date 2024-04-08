@@ -1,8 +1,10 @@
+import Todo from './components/Todo';
+
 function App() {
   return (
-    <>
-      <h1 className="container text-3xl font-bold underline">Hello world!</h1>
-    </>
+    <main className="container h-screen">
+      <Todo />
+    </main>
   );
 }
 
