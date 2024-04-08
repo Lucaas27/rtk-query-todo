@@ -1,6 +1,6 @@
 {
-  "name": "ts-project",
-  "private": true,
+  "name": "rtk-query",
+  "private": false,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
